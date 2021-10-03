@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "20a7283559fca385",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4d17098925d4f32",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ethereum/Solidity/Solidity.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6bf8ecf88842be8",
+    "type": "split",
+    "children": [
+      {
+        "id": "46a4e7ff9cf992ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4115f9c6353f92f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5038256d79dd481a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#setup",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 188
+  },
+  "right": {
+    "id": "36cdb10fe61bb224",
+    "type": "split",
+    "children": [
+      {
+        "id": "efe174a5889d9826",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a1c7e84061c1e4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ethereum/Solidity/Solidity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "effd2190cb29700b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ethereum/Solidity/Solidity.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7ea602d88c292f49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 406
+  },
+  "active": "a4d17098925d4f32",
+  "lastOpenFiles": [
+    "Ethereum/Solidity/Solidity.md",
+    "Ethereum/Solidity/Solidity Setup.md",
+    "Smart Contract.md",
+    "Ethereum/web3 js.md",
+    "Solidity/Solidity Setup.md",
+    "Ethereum/ethers.js.md",
+    "ethers.js.md",
+    "Ethereum/Ethereum.md",
+    "Ethereum/web3js.md",
+    "Untitled.md"
+  ]
+}
