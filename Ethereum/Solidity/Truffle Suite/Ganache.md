@@ -1,1 +1,0 @@
-#narzędzie lokalną wersję node'a [[Ethereum]]: [link](https://www.trufflesuite.com/ganache).

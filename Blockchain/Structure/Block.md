@@ -1,0 +1,1 @@
+Block składa się z 

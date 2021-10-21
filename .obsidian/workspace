@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a4d17098925d4f32",
+        "id": "6ca44e9c6099d117",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ethereum/Solidity/Solidity.md",
+            "file": "Seminarium/Tematy/Struktura blocków (bitcoin) + struktury dany (drzewa Merkla).md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#setup",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -52,12 +52,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 188
+    "width": 278
   },
   "right": {
     "id": "36cdb10fe61bb224",
     "type": "split",
     "children": [
+      {
+        "id": "1e6bfd0efc513393",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "375b3a8ca282f9ba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
       {
         "id": "efe174a5889d9826",
         "type": "tabs",
@@ -68,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethereum/Solidity/Solidity.md",
+                "file": "Seminarium/Tematy/Struktura blocków (bitcoin) + struktury dany (drzewa Merkla).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethereum/Solidity/Solidity.md",
+                "file": "Seminarium/Tematy/Struktura blocków (bitcoin) + struktury dany (drzewa Merkla).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,19 +121,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406
+    "width": 404
   },
-  "active": "a4d17098925d4f32",
+  "active": "6ca44e9c6099d117",
   "lastOpenFiles": [
-    "Ethereum/Solidity/Solidity.md",
-    "Ethereum/Solidity/Solidity Setup.md",
-    "Smart Contract.md",
-    "Ethereum/web3 js.md",
-    "Solidity/Solidity Setup.md",
-    "Ethereum/ethers.js.md",
-    "ethers.js.md",
-    "Ethereum/Ethereum.md",
-    "Ethereum/web3js.md",
-    "Untitled.md"
+    "Seminarium/Tematy/Struktura blocków (bitcoin) + struktury dany (drzewa Merkla).md",
+    "Blockchain/Consensus/Proof of Stake.md",
+    "Blockchain/Structure/Transaction.md",
+    "Blockchain/Consensus/Proof of Work.md",
+    "Seminarium/Tematy/\"Taksonomy of blockchain technologies\" vol.4 Ledger Journal.md",
+    "Seminarium/Tematy/\"Real Time Block Rate Retargeting\" vol.5 Ledger Journal.md",
+    "Blockchain/Blockchain.md",
+    "Proof of Authority.md",
+    "Blockchain/KnownChain/KnownChain.md",
+    "Blockchain/KnownChain/Cardano.md"
   ]
 }
