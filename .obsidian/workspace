@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "6ca44e9c6099d117",
+        "id": "37ff0d42f6dcf12e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Seminarium/Tematy/Struktura blocków (bitcoin) + struktury dany (drzewa Merkla).md",
+            "file": "Blockchain/KnownChain/Ethereum/Ethereum.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "0b0bafdd2975d7e3"
+      },
+      {
+        "id": "7a5ec19bf459beaa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Blockchain/KnownChain/Ethereum/Ethereum.md",
+            "mode": "preview"
+          }
+        },
+        "group": "0b0bafdd2975d7e3"
       }
     ],
     "direction": "vertical"
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Ethe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -59,11 +72,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1e6bfd0efc513393",
+        "id": "68e8e792c5351af9",
         "type": "tabs",
+        "dimension": 56.55655655655656,
         "children": [
           {
-            "id": "375b3a8ca282f9ba",
+            "id": "9eea59c28c01abdf",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -75,6 +89,7 @@
       {
         "id": "efe174a5889d9826",
         "type": "tabs",
+        "dimension": 43.44344344344344,
         "children": [
           {
             "id": "3a1c7e84061c1e4b",
@@ -82,14 +97,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seminarium/Tematy/Struktura blocków (bitcoin) + struktury dany (drzewa Merkla).md",
+                "file": "Blockchain/KnownChain/Ethereum/Ethereum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -99,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seminarium/Tematy/Struktura blocków (bitcoin) + struktury dany (drzewa Merkla).md",
+                "file": "Blockchain/KnownChain/Ethereum/Ethereum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,17 +138,17 @@
     "direction": "horizontal",
     "width": 404
   },
-  "active": "6ca44e9c6099d117",
+  "active": "37ff0d42f6dcf12e",
   "lastOpenFiles": [
-    "Seminarium/Tematy/Struktura blocków (bitcoin) + struktury dany (drzewa Merkla).md",
-    "Blockchain/Consensus/Proof of Stake.md",
-    "Blockchain/Structure/Transaction.md",
+    "Blockchain/KnownChain/Ethereum/Ethereum.md",
+    "Blockchain/KnownChain/Ethereum/Standards/Standard.md",
     "Blockchain/Consensus/Proof of Work.md",
-    "Seminarium/Tematy/\"Taksonomy of blockchain technologies\" vol.4 Ledger Journal.md",
-    "Seminarium/Tematy/\"Real Time Block Rate Retargeting\" vol.5 Ledger Journal.md",
+    "51% Attack.md",
+    "Blockchain/Cryptocurrency.md",
     "Blockchain/Blockchain.md",
-    "Proof of Authority.md",
-    "Blockchain/KnownChain/KnownChain.md",
-    "Blockchain/KnownChain/Cardano.md"
+    "Seminarium/Tematy/Tematy.md",
+    "Seminarium/Seminarium.md",
+    "Seminarium/Terminy.md",
+    "Seminarium/Tematy/Struktura blocków (bitcoin) + struktury dany (drzewa Merkla).md"
   ]
 }

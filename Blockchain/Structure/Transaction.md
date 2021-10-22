@@ -1,1 +1,1 @@
-Aby uznać transakcję za udaną należy odczekać 1h czyli 6 [[Block]] a to z powodu takiego że pewnemu [[Mining Pool]]  a dokładnie *BTC Guild* udało się samodzielnie wyprodukować właśnie 6 [[Block]]
+Aby uznać transakcję (kiedy [[Blockchain]] który używamy  korzysta z [[Proof of Work]]) za udaną należy odczekać 1h czyli 6 [[Block]] a to z powodu takiego że pewnemu [[Mining Pool]]  a dokładnie *BTC Guild* udało się samodzielnie wyprodukować właśnie 6 [[Block]]

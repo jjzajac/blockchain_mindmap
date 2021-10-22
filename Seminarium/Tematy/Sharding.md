@@ -1,1 +1,3 @@
-tags: #Zajęte,  [[Seminarium]]
+---
+tags: [Zajęte,Seminarium]
+---

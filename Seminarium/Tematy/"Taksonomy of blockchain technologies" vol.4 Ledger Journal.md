@@ -1,5 +1,5 @@
+---
+tags: [Zajęte,Seminarium]
+---
 [[Blockchain]] [[Ledger Journal]]
 
-
-
-tags: #Zajęte,  [[Seminarium]]

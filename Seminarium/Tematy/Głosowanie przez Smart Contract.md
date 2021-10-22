@@ -1,4 +1,5 @@
+---
+tags: [Zajęte,Seminarium]
+---
+
 [[Smart Contract]] [[Polkadot]]
-
-
-tags: #Zajęte,  [[Seminarium]], 

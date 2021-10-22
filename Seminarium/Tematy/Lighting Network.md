@@ -1,1 +1,3 @@
-tags:  [[Seminarium]]
+---
+tags: [Seminarium]
+---

@@ -1,3 +1,4 @@
+---
+tags: [Zajęte,Seminarium]
+---
 [[Ledger Journal]]
-
-tags: #Zajęte,  [[Seminarium]]
