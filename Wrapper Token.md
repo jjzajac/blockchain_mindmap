@@ -1,0 +1,1 @@
+Wrapper Token to rodzaj [[AltCoin]] [[Token]] który reprezentuje [[NativeCoin]] na innym [[Blockchain|chainie]]. 

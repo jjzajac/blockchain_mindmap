@@ -1,14 +1,14 @@
 ---
-aliases: [eth]
 tags: [chain]
 ---
+
 [Strona projektu](https://ethereum.org/en/) 
 
 [[Blockchain]]
 
-![[Standard|eth]]
+![[EthStandard]]
 
 ## Ethereum 2.0
 
-### Zmiana konsensusu
+### Zmiana mechanizmu konsensusu
 Ethereum będzie zmieniać mechanizm konsensusu na [[Proof of Stake]]

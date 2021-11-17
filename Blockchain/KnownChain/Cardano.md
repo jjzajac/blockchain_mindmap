@@ -1,2 +1,5 @@
+---
+tags: [chain]
+---
+
 [[Blockchain]]
-#chain

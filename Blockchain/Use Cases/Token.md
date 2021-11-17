@@ -1,0 +1,1 @@
+Token to jest [[AltCoin]]. Opiera się na [[Smart Contract|smart contrakcie]], najczęsciej musi implementować jakiś standard np. [[ERC-20]] czy [[SNIP-20]].
