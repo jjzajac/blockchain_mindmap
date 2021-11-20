@@ -1,4 +1,4 @@
 ---
-tags: [Zajęte,Seminarium]
+tags: [Seminarium,University]
 ---
 [[Ledger Journal]]

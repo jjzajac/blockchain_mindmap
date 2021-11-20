@@ -1,3 +1,3 @@
 ---
-tags: [Zajęte,Seminarium]
+tags: [Seminarium,University]
 ---

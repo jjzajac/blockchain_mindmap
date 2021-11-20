@@ -1,6 +1,0 @@
-[[Ethereum]]
-[[Bitcoin]]
-[[Secret]]
-[[Polkadot]]
-[[Monero]]
-[[Cardano]]

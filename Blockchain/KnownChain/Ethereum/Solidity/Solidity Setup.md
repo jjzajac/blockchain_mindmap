@@ -1,4 +1,7 @@
-# [[Solidity]] #setup
+---
+tags : [Tutorial]
+---
+# [[Solidity]] setup
   
 ## quick setup
 webowy IDE do [[Solidity]]: [[Remix]].

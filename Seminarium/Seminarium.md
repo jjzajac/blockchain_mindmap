@@ -1,5 +1,5 @@
 ---
-tags: [Seminarium]
+tags: [Seminarium,University]
 ---
 
 ![[Terminy]]
