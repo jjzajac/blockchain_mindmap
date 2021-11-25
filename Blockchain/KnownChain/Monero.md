@@ -1,5 +1,5 @@
 ---
-tags: [chain]
+tags: [Chain]
 ---
 
 [[Blockchain]]

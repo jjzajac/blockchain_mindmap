@@ -3,5 +3,6 @@
   "showFrontmatter": false,
   "promptDelete": false,
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "newFileLocation": "current"
 }

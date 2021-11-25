@@ -4,35 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "e3a2272dee3b5775",
+        "id": "27d2be558fd639a9",
         "type": "leaf",
-        "dimension": 41.090712742980564,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Seminarium/Tematy/Struktura blocków (bitcoin) + struktury dany (drzewa Merkla).md",
-            "mode": "source"
-          }
-        },
-        "group": "7003b47b3023d623"
-      },
-      {
-        "id": "bfbc392a713dc50f",
-        "type": "leaf",
-        "dimension": 30.99352051835853,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Seminarium/Tematy/Struktura blocków (bitcoin) + struktury dany (drzewa Merkla).md",
-            "mode": "preview"
-          }
-        },
-        "group": "7003b47b3023d623"
-      },
-      {
-        "id": "72b1a882be172efc",
-        "type": "leaf",
-        "dimension": 27.915766738660906,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -65,10 +38,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Mint",
+                "query": "Idea",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -78,8 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252,
-    "collapsed": true
+    "width": 320
   },
   "right": {
     "id": "36cdb10fe61bb224",
@@ -95,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seminarium/Tematy/Struktura blocków (bitcoin) + struktury dany (drzewa Merkla).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +83,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seminarium/Tematy/Struktura blocków (bitcoin) + struktury dany (drzewa Merkla).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,17 +107,17 @@
     "width": 404,
     "collapsed": true
   },
-  "active": "e3a2272dee3b5775",
+  "active": "27d2be558fd639a9",
   "lastOpenFiles": [
-    "Seminarium/Tematy/Struktura blocków (bitcoin) + struktury dany (drzewa Merkla).md",
-    "Seminarium/Tematy/Segregeted Witness.md",
-    "Seminarium/Tematy/Lighting Network.md",
-    "Seminarium/Tematy/Inne algorytmy Proof of Work i inne Po_.md",
-    "Seminarium/Tematy/Głosowanie przez Smart Contract.md",
-    "Seminarium/Tematy/Algorytmy Proof of Work w Bitcoin i Ethereum.md",
-    "Seminarium/Tematy/\"Taksonomy of blockchain technologies\" vol.4 Ledger Journal.md",
-    "Seminarium/Tematy/\"Real Time Block Rate Retargeting\" vol.5 Ledger Journal.md",
-    "Seminarium/Terminy.md",
-    "Seminarium/Tematy/Tematy.md"
+    "Blockchain/Blockchain/Consensus/Proof of Space.md",
+    "Blockchain/Blockchain/Consensus/Consensus.md",
+    "Blockchain/Blockchain/Consensus/Konsensus Tendermint.md",
+    "Blockchain/Blockchain/Cryptocurrency.md",
+    "Blockchain/Blockchain/Blockchain.md",
+    "Blockchain/Blockchain/KnownChain/Ethereum/Ethereum.md",
+    "Blockchain/Tendermint_state_machine.png",
+    "Blockchain/Blockchain/Consensus/Proof of Stake.md",
+    "Blockchain/Seminarium/Tematy/Inne algorytmy Proof of Work i inne Po_.md",
+    "Blockchain/Seminarium/Tematy/Algorytmy Proof of Work w Bitcoin i Ethereum.md"
   ]
 }

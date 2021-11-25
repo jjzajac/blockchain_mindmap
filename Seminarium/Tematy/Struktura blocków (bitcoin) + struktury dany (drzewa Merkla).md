@@ -76,7 +76,7 @@ COinbase Data -
 
 - Forth-like język
 - stosowany do blokowania [[UTXO]] i odblokowania
-- nie jest [[Turing Complete]] ([[Turing INcompleteness]])
+- nie jest [[Turing Complete]] ([[Turing Incompleteness]])
 - [[Stateless Verefication]] 
 
 ### Lock + Unlock
