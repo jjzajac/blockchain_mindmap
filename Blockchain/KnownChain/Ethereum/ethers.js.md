@@ -1,2 +1,2 @@
-#js #library
+[[JS]]  #library
 [[Ethereum]]

@@ -1,6 +1,7 @@
 ---
 tags: [Seminarium,University]
 ---
+[[University MoC]]
 
 ![[Terminy]]
 
